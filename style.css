@@ -20,12 +20,13 @@ body{
 }
 
 .clmn_dx{
-    margin: 132px 0 0 30%;
+    margin: 140px 0 80px 390px;
     padding: 0 30px;
     overflow-y: scroll;
     position: fixed;
-    right: 80px;
     left: 0;
+    top: 0;
+    right: 80px;
     background-color: blue;
     text-shadow: 0 0 black;
 }
@@ -46,7 +47,6 @@ body{
   top: 100px;
   height: 40px;
   width: 100%;
-	z-index: 1;
 	
 }
 #credits{
